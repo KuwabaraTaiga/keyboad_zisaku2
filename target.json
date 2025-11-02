@@ -1,0 +1,10 @@
+{
+    "include": [
+        {
+            "keyboard": "ortho4x12compac",
+            "keymap": "vial",
+            "target": "uf2",
+            "name": "ortho4x12compac_vial"
+        }
+    ]
+}
